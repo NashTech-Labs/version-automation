@@ -7,9 +7,9 @@ Version Format [1.0.0] [major.minor.build]
 
 When version will bump
 -------------------------------------------------
-1. If release branch merge on develop branch then it increment the major version
-2. If feature branch merge on develop branch then it increment the minor version
-3. If bugfix, patch, or hotfix branch merge on develop branch then it increment the build version
+1. If release branch merge on develop branch then it will increment the major version
+2. If feature branch merge on develop branch then it will increment the minor version
+3. If bugfix, patch, or hotfix branch merge on develop branch then it will increment the build version
 
 
 How Script Works:
